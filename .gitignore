@@ -1,0 +1,4 @@
+# This file is used to ignore files or directories from your repo.
+
+# Ignore log files
+*.log
